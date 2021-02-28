@@ -2,7 +2,7 @@
 A Weird Library
 
 
-Programed in C# over april
+Programed in C# over April
 
 Ported to Javascript in November
 
@@ -17,3 +17,9 @@ when you create `IndependantDog` you don't yet know the owner, you only know the
 
 when you create `Dog` you ether know the dog's owner, know only the dog's age or know nothing about the dog
 
+the JavaScript Version is on NPM
+`npm install dogbeeswax`
+
+it works in the same way as DogBeeswax 6, just ALL dogs act like `IndependantDog`
+
+and functions have a JavaScript-like capitalazation, `Adopt()` would become `adopt()`
