@@ -23,3 +23,7 @@ the JavaScript Version is on NPM
 it works in the same way as DogBeeswax 6, just ALL dogs act like `IndependantDog`
 
 and functions have a JavaScript-like capitalazation, `Adopt()` would become `adopt()`
+
+that will be in a seperate repo that i wil create soon
+
+if you want changes, fork this, and make a `DogBeeswax 7` folder for your changes. this repo is read-only
