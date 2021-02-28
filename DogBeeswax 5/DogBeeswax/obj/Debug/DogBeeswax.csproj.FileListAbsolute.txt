@@ -1,0 +1,5 @@
+/Users/leomehraban/Projects/DogBeeswax/DogBeeswax/bin/Debug/DogBeeswax.exe
+/Users/leomehraban/Projects/DogBeeswax/DogBeeswax/bin/Debug/DogBeeswax.pdb
+/Users/leomehraban/Projects/DogBeeswax/DogBeeswax/obj/Debug/DogBeeswax.csprojAssemblyReference.cache
+/Users/leomehraban/Projects/DogBeeswax/DogBeeswax/obj/Debug/DogBeeswax.exe
+/Users/leomehraban/Projects/DogBeeswax/DogBeeswax/obj/Debug/DogBeeswax.pdb
